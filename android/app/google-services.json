@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "22459400961",
+    "project_id": "parking-7f439",
+    "storage_bucket": "parking-7f439.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22459400961:android:d5e0de1f8f16c938b11100",
+        "android_client_info": {
+          "package_name": "com.example.parking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmrJu-rG4n4pCon7XbujpJiF-DrdE2Op8"
+        },
+        {
+          "current_key": "AIzaSyAZFC7DhdKN6TTXOv5SdCuLwRx_w5CnRBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22459400961:android:550c14c5aeed1c20b11100",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22459400961-hnj06il8r6fq183le2gpem14rph2hn86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.untitled1",
+            "certificate_hash": "3dd1ce386b5cca3f10e2f5072cbc3033522d6393"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmrJu-rG4n4pCon7XbujpJiF-DrdE2Op8"
+        },
+        {
+          "current_key": "AIzaSyAZFC7DhdKN6TTXOv5SdCuLwRx_w5CnRBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
